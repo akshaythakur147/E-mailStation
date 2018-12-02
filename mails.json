@@ -1,0 +1,30 @@
+{
+  "mails": [
+    {
+      "id": "01",
+      "title": "Splunk APG PROD Alert PayEase_HTTP_Errors_Per_Host_shared",
+      "content": "this is some content",
+      "action": "ACK",
+      "assigned_to": "user1",
+      "status": "work in progress"
+      
+    },
+    {
+      "id": "02",
+      "title": "The alert condition for 'APG Low Volume Trend Alert_shared' was triggered",
+      "content": "this is some content",
+      "action": "radar <radar NO.123456>",
+      "assigned_to": "user1",
+       "status": "resolved"
+    },
+    {
+      "id": "03",
+      "title": "The alert condition for 'APG_System_Errors_threshold_shared' was triggered",
+      "content": "this is some content",
+      "action": "NO ACTION",
+      "assigned_to": "user3",
+       "status": "resolved"
+      
+    }
+  ]
+}
