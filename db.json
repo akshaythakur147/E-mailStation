@@ -1,29 +1,32 @@
 {
   "mails": [
     {
-      "id": "01",
-      "title": "Splunk APG PROD Alert PayEase_HTTP_Errors_Per_Host_shared",
-      "content": "this is some content",
-      "action": "ACK",
-      "assigned_to": "user1",
-      "status": "work in progress"
+       "serialNo" : "10",
+    "subject" : "Splunk APG PROD Alert: APG_Splunk_Forwarder_NotRunning_shared",
+    "content" : "The alert condition for 'APG_Splunk_Forwarder_NotRunning_shared' was triggered.Alert Title:      APG_Splunk_Forwarder_NotRunning_sharedAlert Location:   https://splunkapg.corp.apple.com//app/prod/@go?dispatch_view=alert&s=%2FservicesNS%2Fnobody%2Fprod%2Fsaved%2Fsearches%2FAPG_Splunk_Forwarder_NotRunning_sharedduration_since        _time                           host                                 00:14:59              Wed Dec  5 12:00:01 2018        rn2apgplapp31.rno.apple.com",
+    "sentDate" : "2018-12-05T22:30:04.000+0000",
+    "action": "Ack",
+    "assignedTo": "akshay",
+    "message": "Work In Progress"
       
     },
     {
-      "id": "02",
-      "title": "The alert condition for 'APG Low Volume Trend Alert_shared' was triggered",
-      "content": "this is some content",
-      "action": "radar <radar NO.123456>",
-      "assigned_to": "user1",
-       "status": "resolved"
+       "serialNo" : "10",
+    "subject" : "Splunk APG PROD Alert: APG_Splunk_Forwarder_NotRunning_shared",
+    "content" : "The alert condition for 'APG_Splunk_Forwarder_NotRunning_shared' was triggered.Alert Title:      APG_Splunk_Forwarder_NotRunning_sharedAlert Location:   https://splunkapg.corp.apple.com//app/prod/@go?dispatch_view=alert&s=%2FservicesNS%2Fnobody%2Fprod%2Fsaved%2Fsearches%2FAPG_Splunk_Forwarder_NotRunning_sharedduration_since        _time                           host                                 00:14:59              Wed Dec  5 12:00:01 2018        rn2apgplapp31.rno.apple.com",
+    "sentDate" : "2018-12-05T22:30:04.000+0000",
+    "action": "Ack",
+    "assignedTo": "akshay",
+    "message": "Work In Progress"
     },
     {
-      "id": "03",
-      "title": "The alert condition for 'APG_System_Errors_threshold_shared' was triggered",
-      "content": "this is some content",
-      "action": "NO ACTION",
-      "assigned_to": "user3",
-       "status": "resolved"
+       "serialNo" : "10",
+    "subject" : "Splunk APG PROD Alert: APG_Splunk_Forwarder_NotRunning_shared",
+    "content" : "The alert condition for 'APG_Splunk_Forwarder_NotRunning_shared' was triggered.Alert Title:      APG_Splunk_Forwarder_NotRunning_sharedAlert Location:   https://splunkapg.corp.apple.com//app/prod/@go?dispatch_view=alert&s=%2FservicesNS%2Fnobody%2Fprod%2Fsaved%2Fsearches%2FAPG_Splunk_Forwarder_NotRunning_sharedduration_since        _time                           host                                 00:14:59              Wed Dec  5 12:00:01 2018        rn2apgplapp31.rno.apple.com",
+    "sentDate" : "2018-12-05T22:30:04.000+0000",
+    "action": "Ack",
+    "assignedTo": "akshay",
+    "message": "Work In Progress"
       
     }
   ]
